@@ -57,7 +57,7 @@ header figure img {
 }
 
 header figure:hover {
-    border: 5px solid var(--li);
+    border: 10px solid var(--li);
 }
 
 main ul {
